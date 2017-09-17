@@ -11,4 +11,4 @@ This project uses Google Maps API to fetch the Lat and Long values.
 
 SimpleJSON library to create JSON files.
 
-![Screenshots ](https://raw.github.com/manishsgaikwad/Java-WebGl-Globe-DBMS/blob/master/Screenshot%20(2).png)
+![Screenshots ](https://github.com/manishsgaikwad/Java-WebGl-Globe-DBMS/blob/master/Screenshot%20(2).png)
